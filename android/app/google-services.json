@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "669005041109",
+    "project_id": "flutter-book-publishing-app-o",
+    "storage_bucket": "flutter-book-publishing-app-o.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669005041109:android:861e7dcfaf353612c5015c",
+        "android_client_info": {
+          "package_name": "com.album.flutter_book_publishing_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy0PhPkQmt2rnwAtaYwRRuuN9Jt2Sk49s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
